@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   title: {
-    fontSize: 40,
+    fontSize: 39,
     fontWeight: "600",
   },
   subtitleCTA: {
